@@ -1,0 +1,52 @@
+{
+  "expenses": [
+    {
+      "IBAN": "DE12345678901234567890",
+      "saldo": 1000,
+      "movimientos": [
+        {
+          "concepto": "Pago de la luz",
+          "fecha": "2018-01-01",
+          "importe": 100,
+          "saldo": 900
+        },
+        {
+          "concepto": "Pago de la luz",
+          "fecha": "2018-01-01",
+          "importe": 100,
+          "saldo": 900
+        },
+        {
+          "concepto": "Pago de la luz",
+          "fecha": "2018-01-01",
+          "importe": 100,
+          "saldo": 900
+        }
+      ]
+    },
+    {
+      "IBAN": "DE12345678901234567891",
+      "saldo": 1000,
+      "movimientos": [
+        {
+          "concepto": "Pago de la luz",
+          "fecha": "2018-01-01",
+          "importe": 100,
+          "saldo": 900
+        },
+        {
+          "concepto": "Pago de la luz",
+          "fecha": "2018-01-01",
+          "importe": 100,
+          "saldo": 900
+        },
+        {
+          "concepto": "Pago de la luz",
+          "fecha": "2018-01-01",
+          "importe": 100,
+          "saldo": 900
+        }
+      ]
+    }
+  ]
+}
