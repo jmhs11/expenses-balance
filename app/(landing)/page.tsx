@@ -1,9 +1,8 @@
 import Navbar from "@/components/navbar";
-import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="p-4 flex space-x-8">
+    <main className="p-4 flex justify-between items-center">
       <Navbar />
     </main>
   );

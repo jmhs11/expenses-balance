@@ -1,10 +1,10 @@
-import { InputForm } from "@/components/ui/inputForm";
+import CSVForm from "@/components/csvForm";
 
 export default function Page() {
+
   return (
     <main className="container">
-      {/* <InputFile label="Select CSV file" name="csv" accept=".csv" /> */}
-      <InputForm />
-    </main>
+      <CSVForm />
+    </main> 
   );
 }
